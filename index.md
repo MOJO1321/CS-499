@@ -19,6 +19,10 @@ Video to large to upload. Link for youtube is below:
 
 # Polished Work
 
+The raw data and code for these polished works along with the project can be found on this repository.
+
+Link for Repository: https://github.com/MOJO1321/CS-499.git
+
 ### Software design/engineering
 
 My project uses many files from libraries and files to be brought into the main.cpp file to create the design. For example, the use of shaderfiles were used to develop the 3D design of the objects in the 3D world and without these shaderfiles the program will not run due to an GL error. In order to not lose track of these shaderfiles, I placed a folder into the main project to retrieve these files whenever they are needed, and they can be used by anyone who has the project. Along with the shaderfile folder, I also placed an image folder with my jpg and png files to retrieve the images needed to wrap the texture around the 3D designs. 
@@ -155,3 +159,5 @@ The updating of the library files did meet my enhancement to change my project f
 During this enhancement, I ran into a challenge with the GLFW library when using a x64 binary to create the lib files. In order to properly create these lib files, I used cMaker to develop a build for the GLFW library and linked the library to the 2022 visual studios. I learned my libraries had to be updated in my project because I was using a newer version of visual studios and without updating these libraries, my project ran into multiple errors and failures due to linker issues.
 
 # Professional Self-Assessment
+
+
