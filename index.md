@@ -16,6 +16,10 @@ Syntax highlighted code block
 MOJO1321
 
 ## Header 2
+
+Joseph Silva Jr
+SNHU
+
 ### Header 3
 
 - Bulleted
